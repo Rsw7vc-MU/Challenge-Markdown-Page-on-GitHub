@@ -1,3 +1,10 @@
+# About Me
+Hello I am _Ryan Woods_ and I am in my third year here at **Mizzou**. 
+I am an Information Technology major with a focus/emphasis in Cyber Security & iOS and Web development. 
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Rsw7vc-MU/Challenge-Markdown-Page-on-GitHub/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
