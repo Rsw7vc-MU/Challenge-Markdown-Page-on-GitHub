@@ -2,6 +2,8 @@
 > Hello I am _Ryan Woods_ and I am in my third year here at **Mizzou**. 
 I am an Information Technology major with a focus/emphasis in Cyber Security & iOS and Web development. 
 
+![This is me!](IMG_0390%20(2).jpg)
+
 # Interests
 ## 1. Sports
 ### Favorite Sports:
