@@ -1,6 +1,18 @@
 # About Me
 > Hello I am _Ryan Woods_ and I am in my third year here at **Mizzou**. I am an Information Technology major with a focus/emphasis in Cyber Security & iOS and Web development. I am currently 21 years old and prefer the pronouns of He/Him.
 
+{
+  "firstName": "Ryan",
+  "lastName": "Woods",
+  "age": 21
+  "pronouns":  He/Him
+}
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+
 ### This is me!
 <img src="IMG_0390%20(2).jpg" alt="Picture of Myself" width="100" height="196">
 (With the formatting of this picture I had to resize it to be visually appealing and it is different formating with markdown than what we are learning in class, I hope that this is fine and acceptable for the submission)
