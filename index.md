@@ -1,6 +1,5 @@
 # About Me
 ```markdown
-Syntax highlighted code block
 Hello I am _Ryan Woods_ and I am in my third year here at **Mizzou**. 
 I am an Information Technology major with a focus/emphasis in Cyber Security & iOS and Web development. 
 ```
