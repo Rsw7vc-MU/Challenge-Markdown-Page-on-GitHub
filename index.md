@@ -28,25 +28,4 @@
 * Polo G
 * Lil Peep
 * **MANY MORE**
-> I really enjoy listening to music because I believe that music is in a way a form of art no matter the genre. I used to not listen to music as much as I do now and I think music is also a way of expressing yourself wither performing or even just listening. I know on the surface my music taste looks very "basic", but I do enjoy many different genres/artisits. With my enjoyment for music I have found other entertainment I enjoy that is apart of the music world, for example I really enjoy this rather new music video creator/producer named [Cole Bennett](https://www.youtube.com/user/GooodLifeFilms), linked is his brand's YouTube channel, Lyrical Lemonade. I would definatly recommend checking out a video or two not even for the music but for the very cool and crazy editing involved.
-
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
+> I really enjoy listening to music because I believe that music is in a way a form of art no matter the genre. I used to not listen to music as much as I do now and I think music is also a way of expressing yourself whether performing or even just listening. I know on the surface my music taste looks very "basic", but I do enjoy many different genres/artisits. With my enjoyment for music I have found other entertainment I enjoy that is apart of the music world, for example I really enjoy this rather new music video creator/producer named [Cole Bennett](https://www.youtube.com/user/GooodLifeFilms), linked is his brand's YouTube channel, Lyrical Lemonade. I would definatly recommend checking out a video or two not even for the music but for the very cool and crazy editing involved.
