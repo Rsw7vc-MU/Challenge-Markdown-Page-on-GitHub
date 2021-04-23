@@ -3,7 +3,7 @@
 I am an Information Technology major with a focus/emphasis in Cyber Security & iOS and Web development. 
 
 ### This is me!
-<img src="IMG_0390%20(2).jpg" alt="Picture of Myself" width="50" height="98">
+<img src="IMG_0390%20(2).jpg" alt="Picture of Myself" width="100" height="196">
 
 # Interests
 ## 1. Sports
