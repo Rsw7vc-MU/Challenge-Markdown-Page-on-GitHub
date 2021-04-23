@@ -1,12 +1,6 @@
 # About Me
 > Hello I am _Ryan Woods_ and I am in my third year here at **Mizzou**. I am an Information Technology major with a focus/emphasis in Cyber Security & iOS and Web development. I am currently 21 years old and prefer the pronouns of He/Him.
 
-{
-  "firstName": "Ryan",
-  "lastName": "Woods",
-  "age": 21
-  "pronouns":  He/Him
-}
 | Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
