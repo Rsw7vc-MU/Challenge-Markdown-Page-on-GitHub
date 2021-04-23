@@ -3,7 +3,7 @@
 
 ### This is me!
 <img src="IMG_0390%20(2).jpg" alt="Picture of Myself" width="100" height="196">
-(With the formatting of this picture I had to resize it to be visually appealing and it is different formating with markdown than what we were leaerning in class, I hope that this is fine and acceptable for the submission)
+(With the formatting of this picture I had to resize it to be visually appealing and it is different formating with markdown than what we are learning in class, I hope that this is fine and acceptable for the submission)
 
 # Interests
 ## 1. Sports
@@ -28,4 +28,4 @@
 * Polo G
 * Lil Peep
 * **MANY MORE**
-> I really enjoy listening to music because I believe that music is in a way a form of art no matter the genre. I used to not listen to music as much as I do now and I think music is also a way of expressing yourself whether performing or even just listening. I know on the surface my music taste looks very "basic", but I do enjoy many different genres/artisits. With my enjoyment for music I have found other entertainment I enjoy that is apart of the music world, for example I really enjoy this rather new music video creator/producer named [Cole Bennett](https://www.youtube.com/user/GooodLifeFilms), linked is his brand's YouTube channel, Lyrical Lemonade. I would definatly recommend checking out a video or two not even for the music but for the very cool and crazy editing involved.
+> I really enjoy listening to music because I believe that music is in a way a form of art no matter the genre. I used to not listen to music as much as I do now and I think music is also a way of expressing yourself whether performing or even just listening. I know on the surface my music taste looks very "basic", but I do enjoy many different genres/artisits. Also I use [Spotify](https://www.spotify.com/us/) and [Youtube](https://www.youtube.com/) as my preferred platforms...Definetly not a Apple Music fan(LOL). With my enjoyment for music I have found other entertainment I enjoy that is apart of the music world, for example I really enjoy this rather new music video creator/producer named [Cole Bennett](https://www.youtube.com/user/GooodLifeFilms), linked is his brand's YouTube channel, Lyrical Lemonade. I would definatly recommend checking out a video or two not even for the music but for the very cool and crazy editing involved.
