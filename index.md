@@ -4,7 +4,9 @@
 | Name | Ryan Woods |
 | ----------- | ----------- |
 | Age | 21 Years Old |
-| Paragraph | Text |
+| Major | Information Technology |
+| Pronouns | He/Him |
+| Graduation Year | 2022 |
 
 
 ### This is me!
