@@ -4,7 +4,7 @@ I am an Information Technology major with a focus/emphasis in Cyber Security & i
 
 # Interests
 ## 1. Sports
- * Baseball (MLB)
+* Baseball (MLB)
   * Favorite team is the **Saint Louis Cardinals**!
 * Football (NFL)
   * Favorite teams are the **Kansas City Chiefs**, **Seattle Seahawks**, and the **New Orleans Saints**!
